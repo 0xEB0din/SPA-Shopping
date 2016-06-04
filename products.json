@@ -18,7 +18,7 @@
   },
   {
     "id": 2,
-    "name": "Iphone 6",
+    "name": "iPhone 6",
     "price": 899,
     "specs": {
       "manufacturer": "Apple",
@@ -86,7 +86,7 @@
   },
   {
     "id": 6,
-    "name": "Zte Nubia",
+    "name": "ZTE Nubia",
     "price": 399,
     "specs": {
       "manufacturer": "ZTE",
@@ -120,7 +120,7 @@
   },
   {
     "id": 8,
-    "name": "Iphone 5S",
+    "name": "iPhone 5S",
     "price": 399,
     "specs": {
       "manufacturer": "Apple",
